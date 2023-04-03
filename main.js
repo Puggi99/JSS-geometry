@@ -9,3 +9,5 @@ console.log(segment1)
 
 const segment2 = Segment.fromPointsCoordinates(0,1,3,4)
 console.log(segment2)
+
+console.log(Triangle)
